@@ -38,6 +38,7 @@ form .display {
               display: flex;
               justify-content: flex-end;
               margin: 20px 0;
+              background: #6b6767e1;
 }
 
 form .display input {
